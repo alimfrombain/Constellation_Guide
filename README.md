@@ -1,11 +1,11 @@
 # Constellation User Guide
 
-# Overview
+## Overview
 
-# Use Cases
+## Use Cases
 
-## Individual Tag Update
+### Individual Tag Update
 
-## Update Tags in Bulk
+### Update Tags in Bulk
 
-# Troubleshooting and Contact
+## Troubleshooting and Contact
