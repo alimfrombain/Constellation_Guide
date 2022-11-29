@@ -4,8 +4,8 @@
 
 ## Use Cases
 
-### Individual Tag Update
+### 1. Individual Tag Update
 
-### Update Tags in Bulk
+### 2. Update Tags in Bulk
 
 ## Troubleshooting and Contact
