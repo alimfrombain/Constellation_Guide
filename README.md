@@ -2,7 +2,7 @@
 
 ## Overview
 
-## Use Cases
+## Tagging Use Cases
 
 ### Individual Tag Update
 
