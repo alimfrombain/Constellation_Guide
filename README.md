@@ -39,7 +39,7 @@ Let's say we want to make sure all Skirt items from a set of brands are tagged a
 
 ![Bulk2](Bulk2.png)
 
-### Importing / Exporting Rules
+### Importing / Exporting Queries
 
 In order to save and re-use the same queries, you can use the import and export functionality. See instructions below:
 
