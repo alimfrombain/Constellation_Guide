@@ -42,7 +42,13 @@ Let's say we want to make sure all Skirt items from a set of brands are tagged a
 
 ### Importing / Exporting Rules
 
-\[Placeholder]
+In order to save and re-use the same queries, you can use the import and export functionality. See instructions below:
+
+1. First make sure you have filled out your query in the _Item Filter Selection_ and  _Characteristic View Selection_ sections within the Query Builder and clicked the Update button. 
+2. Still within the Query Builder, click the _Complete Import/Export_ section. Within the _Export Selects_ is your query in JSON-like structure. COpy and save this text somewhere of your choosing to use for later.
+3. Next time you would like to use this query, go back into the _Complete Import/Export_ section and paste the query text you save into the _Import Selects_ section.
+4. Click the Import Selects button and then the Update button and exit the Query Builder. 
+5. You may now load the data by clicking the red, circular refresh button. This may take a few minutes so do not hit refresh until the results appears.
 
 ## Troubleshooting and Contact
 
