@@ -35,7 +35,6 @@ Let's say we want to make sure all Skirt items from a set of brands are tagged a
 9. Now refresh the table by clicking the red, circular refresh button. This may take a few moments. 
 10. The output will now show Skirt items that are not tagged as Skirts. We can update these items by first selecting all items by checking the square in the first column of the header row of the table. Then clicking the "Update all" button. In the first dropdown of the pop-up select the taxonomy column (e.g., "Google Taxonomy") and in the second select the appropriate tag to update the items to. Then, click "Update".
 
-
 ![Bulk1](Bulk1.png)
 
 ![Bulk2](Bulk2.png)
@@ -49,6 +48,8 @@ In order to save and re-use the same queries, you can use the import and export 
 3. Next time you would like to use this query, go back into the _Complete Import/Export_ section and paste the query text you save into the _Import Selects_ section.
 4. Click the Import Selects button and then the Update button and exit the Query Builder. 
 5. You may now load the data by clicking the red, circular refresh button. This may take a few minutes so do not hit refresh until the results appears.
+
+![Import1](Import1.png)
 
 ## Troubleshooting and Contact
 
