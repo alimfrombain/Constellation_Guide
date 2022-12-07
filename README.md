@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide walks through the latest key use cases for Constellation. In particular, the guide demonstrates how to perform updates to item tags in a few different ways.
+This guide walks through the latest key use cases for Constellation. In particular, the guide demonstrates how to perform updates to item tags in a couple different ways.
 
 ## Tagging Use Cases
 
