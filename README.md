@@ -2,6 +2,8 @@
 
 ## Overview
 
+This guide walks through the latest key use cases for Constellation. In particular, the guide demonstrates how to perform updates to item tags in several manners.
+
 ## Tagging Use Cases
 
 ### Individual Tag Update
@@ -14,7 +16,7 @@ To update a specific item's tag follow the instructions here:
 4. You may now load the data by clicking the red, circular refresh button. This may take a few minutes so do not hit refresh until the results appears.
 5. In the output identify the row containing the item in question. Click on the text for the taxonomy column to update that item's tag. The data will now update and may take a few moments.
 
-### Update Tags in Bulk
+### Identify and Correct Multiple Items Tagged to the Wrong Category
 
 To update multiple incorrectly tagged items to a certain tag see the example here:
 
@@ -31,5 +33,8 @@ Let's say we want to make sure all Skirt items from a set of merchants are tagge
 9. Now refresh the table by clicking the red, circular refresh button. This may take a few moments. 
 10. The output will now show Skirt items that are not tagged as Skirts. We can update these items by first selecting all items by checking the square in the first column of the header row of the table. Then clicking the "Update all" button. In the first dropdown of the pop-up select the taxonomy column (e.g., "Google Taxonomy") and in the second select the appropriate tag to update the items to. Then, click "Update".
 
+### Importing / Exporting Rules
 
 ## Troubleshooting and Contact
+
+For assistance in using Constellation, please reach out to the Pyxis Constellation team.
