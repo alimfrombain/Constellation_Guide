@@ -16,6 +16,8 @@ To update a specific item's tag follow the instructions here:
 4. You may now load the data by clicking the red, circular refresh button. This may take a few minutes so do not hit refresh until the results appears.
 5. In the output identify the row containing the item in question. Click on the text for the taxonomy column to update that item's tag. The data will now update and may take a few moments.
 
+!()[Individual_Update.png]
+
 ### Identify and Correct Multiple Items Tagged to the Wrong Category
 
 To update multiple incorrectly tagged items to a certain tag see the example here:
